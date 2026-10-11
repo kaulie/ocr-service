@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Paddle runtime (not part of the service tree)
+pyenv/
+paddlex-home/
+cache/
+*.log
